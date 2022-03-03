@@ -1,4 +1,4 @@
-package com.segovel.jpamultipledb.model.user;
+package com.segovelo.jpamultipledb.model.user;
 
 import javax.persistence.*;
 

@@ -1,4 +1,4 @@
-package com.segovel.jpamultipledb.model.product;
+package com.segovelo.jpamultipledb.model.product;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
