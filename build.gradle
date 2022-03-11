@@ -20,6 +20,9 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	// https://mvnrepository.com/artifact/com.h2database/h2
 	testImplementation group: 'com.h2database', name: 'h2', version: '2.1.210'
+	// https://mvnrepository.com/artifact/com.google.guava/guava
+    implementation 'com.google.guava:guava:27.0.1-jre'
+	
 	
 }
 
